@@ -10,4 +10,9 @@ format: html
 
 A line added for example 
 
+<<<<<<< HEAD
 A line added for conflict
+=======
+A line added for testbranch 
+
+>>>>>>> testbranch
