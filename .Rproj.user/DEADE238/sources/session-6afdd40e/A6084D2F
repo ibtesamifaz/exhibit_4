@@ -3,9 +3,9 @@
     "path": "C:/Users/ibtes/Desktop/5513_Assignment_2/example.qmd",
     "project_path": "example.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "980991572",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1746334371390.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "2:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1746334394,
+    "lastKnownWriteTime": 1746335397,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1746335219324,
+    "last_content_update": 1746335397294,
     "read_only": false,
     "read_only_alternatives": []
 }
